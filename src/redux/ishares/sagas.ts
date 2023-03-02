@@ -6,7 +6,7 @@ import { IsharesProps } from "./types";
 import { IsharesData } from "./__fixture__/IsharesData";
 
 const getIsharesData = () => {
-  // TODO : API call here
+  // TODO : API call goes here
   return IsharesData;
 };
 

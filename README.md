@@ -10,6 +10,8 @@ This project developed with
 6. "tailwindcss": "^3.2.7"
 
 ### `Mock Data`
+Implemented dynamic calculation (Market Value, % of Portfolio Value, Unrealized P&L, % Return) using below Data
+
 ```
 [
   {

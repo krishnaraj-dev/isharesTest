@@ -101,7 +101,7 @@ export const ISharesTable = ({
                   <div className="bg-customGraylight w-full h-full flex items-center">
                     <ul className="between">
                       <li className="font-semibold">
-                        <span>Marked Value</span>
+                        <span>Market Value</span>
                         <span>
                           {currencyFormat(
                             AppConfig.currency,
